@@ -6,7 +6,7 @@
 /*   By: akeawdou <akeawdou@student.42bangkok.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/12 00:04:04 by akeawdou          #+#    #+#             */
-/*   Updated: 2022/10/30 22:37:18 by akeawdou         ###   ########.fr       */
+/*   Updated: 2022/10/31 01:32:15 by akeawdou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <stdarg.h>
-# include <stdio.h>
 
 typedef struct s_format
 {
